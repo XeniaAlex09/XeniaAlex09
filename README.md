@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Xenia
+### Hi,I'm Xenia 👋 👩‍💻
 
 
 I'm Front End Developer 
